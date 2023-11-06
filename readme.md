@@ -15,9 +15,22 @@
 - [ ] Finalizar
 
 
-C:\Users\Samuel\Desktop\AW\mi-proyecto>git log
-commit a4ee46375fc81cbcdf228fe524b13f5674d6ea91 (HEAD -> master)
-Author: MrSMCs <samugammer777@gmail.com>
-Date:   Mon Nov 6 16:11:44 2023 +0100
+C:\Users\Samuel\Desktop\AW\mi-proyecto>git checkout a4ee46375fc81cbcdf228fe524b13f5674d6ea91
+Note: switching to 'a4ee46375fc81cbcdf228fe524b13f5674d6ea91'.
 
-    Añadido readme.md
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at a4ee463 Añadido readme.md
