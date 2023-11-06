@@ -13,3 +13,11 @@
 - [x] Empezar
 - [ ] Resistir
 - [ ] Finalizar
+
+
+C:\Users\Samuel\Desktop\AW\mi-proyecto>git log
+commit a4ee46375fc81cbcdf228fe524b13f5674d6ea91 (HEAD -> master)
+Author: MrSMCs <samugammer777@gmail.com>
+Date:   Mon Nov 6 16:11:44 2023 +0100
+
+    Añadido readme.md
